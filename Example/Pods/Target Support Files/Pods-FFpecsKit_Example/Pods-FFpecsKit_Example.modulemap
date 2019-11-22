@@ -1,0 +1,6 @@
+framework module Pods_FFpecsKit_Example {
+  umbrella header "Pods-FFpecsKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

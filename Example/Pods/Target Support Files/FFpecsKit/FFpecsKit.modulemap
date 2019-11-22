@@ -1,0 +1,6 @@
+framework module FFpecsKit {
+  umbrella header "FFpecsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
