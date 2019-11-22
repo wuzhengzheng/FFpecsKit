@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFpecsKit'
-  s.version          = '1'
+  s.version          = '2'
   s.summary          = '第一次添加依赖库'
 
 # This description is used to generate tags and improve search results.
